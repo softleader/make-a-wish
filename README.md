@@ -12,4 +12,11 @@ Please feel free to leave any comments or questions on [issue](https://github.co
 
 ## How
 
-這次主要將使用 GitHub 的 [issue](https://github.com/softleader/make-a-wish/issues) 來收集: 
+這次主要將使用 GitHub 的 [issue](https://github.com/softleader/make-a-wish/issues) 來收集:
+
+1. 點選 Issue > New Issue
+![](./issue-1.png)
+1. 寫個聳動的 Title 及 Comment, Comment 區塊也支援 [Markdown格式](https://guides.github.com/features/mastering-markdown/), 另外記得要標記 Label 喔
+![](./issue-2.png)
+1. Label 一共區分為以下幾種, 想要新的 label 也可以開一個 issue 喔!
+![](./labels.png)
