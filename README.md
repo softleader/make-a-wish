@@ -8,7 +8,7 @@ Hi Folks,
 
 各位專案上正在使用的 SoftLeader Framework v2 從剛推出到現在已經 3 年多, 因應 Spring 5 的推出, Java 的升級, 以及這兩年出現的 Microservice 架構等等, R&D 正在著手規劃及開發下一代的的 SoftLeader Framework
 
-下一代的 Framework 除了會整合許多新推出的技術或 Library 外, 還有一個很重要的目標就是讓 SoftLeader Framework 一代比一代更好用, 因此希望可以收集各位的想法: 不論是過去 v2 版本中不好用, 太複雜, 太難 debug 等地方, 或是想提供自己的想法, 甚至覺得某個設計不錯應該擴大規劃等等都請分享給我們.
+在下一代中除了會整合許多新推出的技術或 Library 外, 還有一個很重要的目標就是讓 SoftLeader Framework 一代比一代更好用, 因此希望可以收集各位的想法: 不論是過去 v2 版本中不好用, 太複雜, 太難 debug 等地方, 或是想提供自己的想法, 甚至覺得某個設計不錯應該擴大規劃等等都請分享給我們.
 
 許願所會開張持續到至少 2019/Q2, 任何一點 Feedback 對我們來說都是非常重要的參考指標, Please feel free to leave any comments or questions.
 
