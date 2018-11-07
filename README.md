@@ -16,7 +16,7 @@ Please feel free to leave any comments or questions on [issue](https://github.co
 
 1. 點選 Issue > New Issue
 ![](./issue-1.png)
-1. 寫個聳動的 Title 及 Comment, Comment 區塊也支援 [Markdown格式](https://guides.github.com/features/mastering-markdown/), 另外記得要標記 Label 喔
+1. 寫個聳動的 Title 及 Comment 吧, Comment 區塊也支援 [Markdown格式](https://guides.github.com/features/mastering-markdown/), 另外記得要標記 Label 喔
 ![](./issue-2.png)
-1. Label 一共區分為以下幾種, 沒有符合的可以先不選, 想要新的 label 也可以開一個 issue 喔!
+1. Label 一共區分為以下幾種, 沒有符合的可以先不選, 想要新的 Label 也可以開一個 Issue 喔!
 ![](./labels.png)
