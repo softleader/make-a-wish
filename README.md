@@ -10,7 +10,7 @@ Hi Folks,
 
 在下一代中除了會整合許多新推出的技術或 Library 外, 還有一個很重要的目標就是讓 SoftLeader Framework 一代比一代更好用, 因此希望可以收集各位的想法: 不論是過去 v2 版本中不好用, 太複雜, 太難 debug 等地方, 或是想提供自己的想法, 甚至覺得某個設計不錯應該擴大規劃等等都請分享給我們.
 
-許願所會開張持續到至少 2019/Q2, 任何一點 Feedback 對我們來說都是非常重要的參考指標, Please feel free to leave any comments or questions.
+許願所至少會持續開張到 2019/Q2, 任何一點 Feedback 對我們來說都是非常重要的參考指標, Please feel free to leave any comments or questions.
 
 ## How
 
