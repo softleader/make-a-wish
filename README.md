@@ -18,7 +18,7 @@ Hi Folks,
 
 1. 點選 Issue > New Issue
 ![](./issue-1.png)
-1. 寫個聳動的 Title 及 Comment 吧, Comment 區塊也支援 [Markdown格式](https://guides.github.com/features/mastering-markdown/), 另外記得要標記 Label 喔
+1. <寫個聳動的 Title 及 Comment 吧, Comment 區塊也支援 [Markdown格式](https://guides.github.com/features/mastering-markdown/), del>另外記得要標記 Label 喔</del> (label會由小精靈為你標上)
 ![](./issue-2.png)
-1. Label 一共區分為以下幾種, 沒有符合的就先不選吧, 想要新的 Label 也可以開一個 Issue 喔!
+1. <del>Label 一共區分為以下幾種, 沒有符合的就先不選吧, 想要新的 Label 也可以開一個 Issue 喔!</del> 小精靈你自己去開 Label 吧!
 ![](./labels.png)
