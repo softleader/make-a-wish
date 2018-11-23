@@ -1,6 +1,6 @@
 # make-a-wish
 
-Next-generation SoftLeader Framework 許願所
+SoftLeader Playground 許願所
 
 ## Why
 
